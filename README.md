@@ -13,6 +13,10 @@
 > Nesse segundo dia aprendemos o que é Next.js e quando utilizar no desenvolvimento de aplicações React. Também criamos nossos próprios hooks dando vida às funcionalidades de countdown e ganho de experiência e leveis através de desafios.
 <br>
 
+#### Contexto e componentes
+> Na terceiro aula realizamos uma separação da aplicação em componentes menores e aplicaremos o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela. Finalizamos também a funcionalidade de desafios.
+<br>
+
 [...em andamento]
 <br>
 
@@ -20,6 +24,8 @@
 * NextJS
 * ReactJS
 * Typescript
+* Hooks
+* CSS Modules
 
 <br>
 

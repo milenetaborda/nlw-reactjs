@@ -17,8 +17,19 @@
 > Na terceiro aula realizamos uma separação da aplicação em componentes menores e aplicaremos o conceito de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela. Finalizamos também a funcionalidade de desafios.
 <br>
 
+#### Melhorando a usabilidade da aplicação
+> Na quarta aula continuamos evoluindo nossa aplicação, aprendemos ainda mais sobre a Context API, e aprendemos a como utilizar as notificações e sons do navegador para melhorar a experiência do usuário.
+<br>
+
+#### Próximo nível com React
+> Nessa última aula entendemos os próximos passos para avançar nos aprendizados com React com dicas de ferramentas, bibliotecas e conceitos a serem estudados. Também incrementamos nossa aplicação com algumas features adicionais a fim de mostrar como aplicar esses próximos passos dentro do app desenvolvido na semana.
+<br>
+
 [...em andamento]
 <br>
+
+## Projeto
+* [Frigma](https://www.figma.com/file/K73NHht83GJwAmYEvNTZ1B/Move.it-1.0?node-id=160%3A2761)
 
 ## Principais tecnologias/ferramentas utilizadas
 * NextJS

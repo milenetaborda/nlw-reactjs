@@ -35,7 +35,6 @@
 * NextJS
 * ReactJS
 * Typescript
-* Hooks
 * CSS Modules
 
 <br>

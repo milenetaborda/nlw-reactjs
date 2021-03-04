@@ -25,9 +25,6 @@
 > Nessa última aula entendemos os próximos passos para avançar nos aprendizados com React com dicas de ferramentas, bibliotecas e conceitos a serem estudados. Também incrementamos nossa aplicação com algumas features adicionais a fim de mostrar como aplicar esses próximos passos dentro do app desenvolvido na semana.
 <br>
 
-[...em andamento]
-<br>
-
 ## Projeto
 * [Frigma](https://www.figma.com/file/K73NHht83GJwAmYEvNTZ1B/Move.it-1.0?node-id=160%3A2761)
 
@@ -36,6 +33,8 @@
 * ReactJS
 * Typescript
 * CSS Modules
+* Cookies
+* Deployment | Vercel
 
 <br>
 
